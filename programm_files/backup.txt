@@ -1,0 +1,12 @@
+30|500|kostrulevvladimir@gmail.com
+MED_client
+MED_debet
+MED_oplata
+MED_podopech
+MED_send_log
+MED_send_ochered
+MED_send_options
+MED_send_settings
+MED_sidelka
+MED_worker
+MED_zayavka

@@ -1,0 +1,33 @@
+/****************************************************BACKGROUND COLOR START****************************************************/
+.book-section a.btn-book, #nav li ul li a:hover, #nav li ul li:hover > a, .main-navigation .navbar-inverse .navbar-toggle, .cart-box-outer button, .cart-box-outer .cart-box .cart-row a.close, .cart-box-outer .cart-box a.btn-checkout, #cp-slide-search form button, .campers-theme a.btn-style-2, .search-form button, .Zebra_DatePicker td.dp_disabled_current, .trip-offers-section .detail-col strong.price, .activites-box:hover a.title, .cost-calculator .left-box .text-box strong.cost, .post-box:hover a.btn-style-3, .newsletter-section .text-box input[type="submit"]:hover, .header-style-2 .top-search a.search-icon, strong.logo-2, .facilities-section .facilitie-box i, .gallery-style-1 .frame .caption:before, .gallery-style-1 .frame .caption a.link:hover, .error-page .holder button, .error-page .holder a.go-home, .contact-page form input[type="submit"], .table-style-2 .table-style-1:hover .round-box, .register-page .holder form button, .pagination-area .pagination > li > a:hover, .pagination-area .pagination > li > span:hover, .pagination-area .pagination > li > a:focus, .pagination-area .pagination > li > span:focus, .pagination-area .pagination > li.active a, .testimonials-style-3 .owl-page.active, .booking-form input[type="submit"], .about-box-area .box:hover .icon-box, .team-style-2 .team-box:hover .caption, .product-page .product-box:hover .frame:before, .button-box-3 input[type="submit"], .comment-form input[type="submit"], .blog-post-section .post-box .frame .owl-next:hover, .blog-post-section .post-box .frame .owl-prev:hover, .sidebar-tags li a:hover, .blog-details-tags ul li a:hover, .trip-offers-section .thumb .caption:before, .trip-detail-tab-section .nav-tabs > li.active > a, .trip-detail-tab-section .nav-tabs > li.active > a:hover, .trip-detail-tab-section .nav-tabs > li.active > a:focus, .trip-detail-tab-section .nav > li > a:hover, .trip-detail-tab-section .nav > li > a:focus, .accordion_cp strong.number, .trip-date-section-body ul li a.btn-book, .event-trip-detail ul li a, .event-detail-row ul li a, .event-booking-form input[type="submit"], .trip-events-section.event-section .owl-next:hover:before, .trip-events-section.event-section .owl-prev:hover:before{
+	background:#9bc83c;
+}
+/****************************************************BACKGROUND COLOR END****************************************************/
+
+/***************************************************TEXT COLOR START***************************************************/
+.top-social a.email .fa, .top-social ul li a:hover, .top-social a.email:hover, .register-login ul li a .fa, .number-box .fa, .register-login ul li a:hover, .number-box:hover span, .number-box:hover strong, #nav li a:hover:before, #nav li a:focus::before, .cart-box-outer .cart-box strong.title a, .cart-box-outer .cart-box .cart-row .text-box strong.amount, .cart-box-outer .cart-box strong.subtotal span, .top-search a.search-icon, #nav li.active a:before, .trip-offers-section .detail-col .fa, .trip-offers-section .text-box h3 a:hover, .activites-box:hover, .blog-post-section .post-box .text-box .post-detail strong .fa, .post-box:hover .text-box h3 a, .facts-box .fa, .footer-section-1 .footer-box address span, .footer-socila ul li a .fa, .footer-socila ul li a:hover, .footer-section-1 .footer-box ul li:hover a:before, .info-box a .fa, .map-caption .text-box .top-row .detail strong .fa, .price-plans-section .table-style-1 span, .price-plans-section .table-style-1 ul li .fa, .error-page .holder h1, .price-plans-section.table-style-2 .round-box span, .price-plans-section.table-style-2 .table-style-1:hover strong.amount, .input-box strong a, .input-box a.forgot, .portfolioFilter a.current, .portfolioFilter a.current, .portfolioFilter a:hover, .portfolioFilter a:focus, .call-action .left-box span a, .facts-figures strong.number, .included-trip .trip-box:hover i, .included-trip .trip-box:hover h3, .team-social-box ul li a:hover, .team-social-box-2 ul li a:hover, .product-page .product-box .frame .caption a.link:hover, .product-page .product-box .text-box strong.amount, .product-rating ul li a, .product-page .product-box:hover .text-box h3 a, .prodect-detail-row .text-box strong.price, .customer-reviews ul li a, .review-row .tex-box a, .popular-box .text-box span .fa, .upcoming-box b .fa, .blog-larg blockquote span, .blog-detail-share ul li a .fa, .trip-offers-section .text-box:hover h3 a, .blog-larg.tips-detail .post-box .text-box em .fa, .event-section .outer-box .text-box b .fa, .event-section .outer-box:hover h3 a, .upcoming-box:hover a, .popular-box li:hover .text-box a, .facilities-section .facilitie-box:hover .text-box h3, .trip-offers-section .box:hover a.btn-more, .blog-post-section .post-box .frame .caption .detail-col .fa, .about-box-area .box:hover h3{
+	color:#9bc83c;
+}
+/***************************************************TEXT COLOR END***************************************************/
+
+
+/*****************************************************BORDER COLOR START*****************************************************/
+.number-box:hover .number-text, .main-navigation .navbar-inverse .navbar-toggle, .top-search a.search-icon, .activites-box, .blog-post-section .post-box .text-box .post-detail strong, .testimonials-style-1 .inner-col .round-thumb, .campers-theme a.btn-style-4, .campers-theme a.btn-style-4:before, .campers-theme a.btn-style-4:after, .price-plans-section.table-style-2 .round-box, .description-row .nav-tabs > li.active > a, .description-row .nav-tabs > li.active > a:hover, .description-row .nav-tabs > li.active > a:focus, .description-row .nav > li > a:hover, .description-row .nav > li > a:focus, .description-row .nav-tabs > li > a:hover, .blog-larg blockquote span, .blog-larg blockquote span:before, .blog-larg blockquote span:after{
+	border-color:#9bc83c;
+}
+.number-box:hover .number-text:before{
+	border-color: transparent transparent transparent #9bc83c;
+}
+.trip-detail-tab-section .nav-tabs > li.active > a:before{
+	border-color: #9bc83c transparent transparent transparent;
+}
+/*****************************************************BORDER COLOR END*****************************************************/
+
+/***************************************************TEXT SHADOW START***************************************************/
+#nav li a:hover:before, #nav li a:focus::before {
+    text-shadow: 7px 0 #9bc83c, -7px 0 #9bc83c;
+}
+#nav li.active a:before {
+    text-shadow: 7px 0 #9bc83c, -7px 0 #9bc83c;
+}
+/***************************************************TEXT SHADOW END***************************************************/

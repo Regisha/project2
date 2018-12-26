@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('../fonts/icomoon.eot?rxa15i');
+    src:    url('../fonts/icomoon.eot?rxa15i#iefix') format('embedded-opentype'),
+        url('../fonts/icomoon.ttf?rxa15i') format('truetype'),
+        url('../fonts/icomoon.woff?rxa15i') format('woff'),
+        url('../fonts/icomoon.svg?rxa15i#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-activitiesicons-1:before {
+    content: "\e900";
+}
+.icon-activitiesicons-2:before {
+    content: "\e901";
+}
+.icon-activitiesicons-3:before {
+    content: "\e902";
+}
+.icon-activitiesicons-4:before {
+    content: "\e903";
+}
+.icon-activitiesicons-5:before {
+    content: "\e904";
+}
+.icon-activitiesicons-6:before {
+    content: "\e905";
+}
+.icon-activitiesicons-7:before {
+    content: "\e906";
+}
+.icon-activitiesicons-8:before {
+    content: "\e907";
+}
+.icon-activitiesicons-9:before {
+    content: "\e908";
+}
+.icon-activitiesicons-10:before {
+    content: "\e909";
+}
+.icon-activitiesicons-11:before {
+    content: "\e90a";
+}
+.icon-activitiesicons-12:before {
+    content: "\e90b";
+}
+.icon-activitiesicons-13:before {
+    content: "\e90c";
+}
+
